@@ -16,7 +16,7 @@ Student at 42Lyon.
 | [Philosophers](https://github.com/Martejo/philo) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)|
 | [Minishell](https://github.com/Martejo/miniShell) |A custom implementation of bash based on the posix version|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)|
 | [Netpractice](https://github.com/Martejo/Pushswap) |An introduction to networking and IP address| N/A|
-| [CPP_modules](https://github.com/Martejo/Pushswap) |An introduction to networking and IP address| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)|
+| [CPP_modules](https://github.com/Martejo/CPP) |An introduction to networking and IP address| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)|
 
 
 
